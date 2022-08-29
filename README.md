@@ -15,7 +15,7 @@ Um nevegador web e uma conexão com a internet
 
 ![](Graficos/Grafico_n_Interativo.png)
 
-Link para demonstração do site da regressão multipla interativa ---> [Site interativo](https://b3c73d25fb9d443ba2f2db4ac13bf554.app.rstudio.cloud/file_show?path=%2Fcloud%2Fproject%2FGrafico_RegMult_Int.html)
+Link para demonstração do site da regressão multipla interativa ---> [Site interativo](https://bruno-gdos.github.io/Analise_QualidadeAr_R/Graficos/Grafico_RegMult_Int.html)
 
 ## 🖇️ Colaborando
 
